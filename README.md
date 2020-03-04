@@ -4,7 +4,8 @@
 * Before you begin this assignment read all directions and decide how to break up the work
 * Create an HTML, JS, and CSS file
 * Create a contact form in your HTML file with fields for name, email, and message similar to `contactExample.png`
-* When the form is submitted save the information into an array as an object
+* When the form is submitted save the information into an object using object literal notation, the property names should align with the form field names
+* Alert the user that the form has been submitted and print each value of the form submission object in a formatted string
 * Add styling - the styling does not have to match the example image, get creative
 
 <img src="contactExample.png" alt="grid example" width ="400" height= "auto">
